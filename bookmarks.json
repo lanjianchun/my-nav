@@ -1,0 +1,687 @@
+[
+  {
+    "name": "大圣盘 ",
+    "url": "https://www.dashengpan.com/",
+    "category": "实用网站"
+  },
+  {
+    "name": "小K网",
+    "url": "https://www.kjsv.com/index.html",
+    "category": "实用网站"
+  },
+  {
+    "name": "Canva可画",
+    "url": "https://www.canva.cn/?display-com-option=true",
+    "category": "实用网站"
+  },
+  {
+    "name": "阮一峰的个人网站",
+    "url": "http://www.ruanyifeng.com/home.html",
+    "category": "技术资讯"
+  },
+  {
+    "name": "编程随想的博客",
+    "url": "https://program-think.blogspot.com/",
+    "category": "技术资讯"
+  },
+  {
+    "name": "Archive - iyouport",
+    "url": "https://iyouport.substack.com/archive?sort=new",
+    "category": "技术资讯"
+  },
+  {
+    "name": "V2EX",
+    "url": "https://www.v2ex.com/",
+    "category": "技术资讯"
+  },
+  {
+    "name": "Oh My RSS",
+    "url": "https://ohmyrss.com/#!",
+    "category": "技术资讯"
+  },
+  {
+    "name": "FT中文网 － 全球财经精粹",
+    "url": "http://www.ftchinese.com/",
+    "category": "技术资讯"
+  },
+  {
+    "name": "今日热榜",
+    "url": "https://tophub.today/",
+    "category": "技术资讯"
+  },
+  {
+    "name": "HelloGitHub",
+    "url": "https://hellogithub.com/",
+    "category": "技术资讯"
+  },
+  {
+    "name": "独立开发者",
+    "url": "https://indiehackers.net/",
+    "category": "技术资讯"
+  },
+  {
+    "name": "虫部落",
+    "url": "https://www.chongbuluo.com/",
+    "category": "技术资讯"
+  },
+  {
+    "name": " Kubernetes Handbook",
+    "url": "https://jimmysong.io/kubernetes-handbook/",
+    "category": "技术资讯"
+  },
+  {
+    "name": "GrowingIO 数据分析",
+    "url": "https://www.growingio.com/",
+    "category": "技术资讯"
+  },
+  {
+    "name": "首页 | 技术胖-前端",
+    "url": "https://jspang.com/",
+    "category": "技术资讯"
+  },
+  {
+    "name": "野生架构师 | Revue",
+    "url": "https://www.getrevue.co/profile/lcomplete",
+    "category": "技术资讯"
+  },
+  {
+    "name": "Medium",
+    "url": "https://medium.com/",
+    "category": "技术资讯"
+  },
+  {
+    "name": "独立开发产品变现周刊",
+    "url": "https://github.com/ljinkai/weekly",
+    "category": "技术资讯"
+  },
+  {
+    "name": "码农驿站-历史档案馆",
+    "url": "https://history.prostation.cn/#/weekly/",
+    "category": "技术资讯"
+  },
+  {
+    "name": "PH今日热榜 - Decohack",
+    "url": "https://decohack.com/category/producthunt/",
+    "category": "技术资讯"
+  },
+  {
+    "name": "文章 | Follow",
+    "url": "https://app.follow.is/feeds/all/pending?view=0",
+    "category": "技术资讯"
+  },
+  {
+    "name": "Hacker News",
+    "url": "https://news.ycombinator.com/news",
+    "category": "技术资讯"
+  },
+  {
+    "name": "LINUX DO - 新的理想型社区",
+    "url": "https://linux.do/",
+    "category": "技术资讯"
+  },
+  {
+    "name": "bestblogs.dev - 汇集顶级编程、人工智能、产品、科技文章，大语言模型摘要评分辅助阅读，探索编程和技术未来",
+    "url": "https://www.bestblogs.dev/feeds?featured=y",
+    "category": "技术资讯"
+  },
+  {
+    "name": "新篇章 | 创业者们的社区",
+    "url": "https://xpz.co/",
+    "category": "技术资讯"
+  },
+  {
+    "name": "生财有术网页版",
+    "url": "https://scys.com/",
+    "category": "技术资讯"
+  },
+  {
+    "name": "FRE123 免费资源共享平台",
+    "url": "https://fre123.com/",
+    "category": "技术资讯"
+  },
+  {
+    "name": "Product Hunt",
+    "url": "https://www.producthunt.com/",
+    "category": "技术资讯"
+  },
+  {
+    "name": "体验碎周报",
+    "url": "https://www.ftium4.com/",
+    "category": "技术资讯"
+  },
+  {
+    "name": "最好的AI导航站和AI工具列表 - Toolify",
+    "url": "https://www.toolify.ai/zh/",
+    "category": "技术资讯"
+  },
+  {
+    "name": "渗透测试文库",
+    "url": "https://wiki.iredteam.cn/",
+    "category": "网络安全"
+  },
+  {
+    "name": "vulfocus漏洞",
+    "url": "http://vulfocus.fofa.so/#/dashboard",
+    "category": "网络安全"
+  },
+  {
+    "name": "SOMD5",
+    "url": "https://somd5.com/",
+    "category": "网络安全"
+  },
+  {
+    "name": "蓝鲸安全",
+    "url": "http://www.whaledu.com/",
+    "category": "网络安全"
+  },
+  {
+    "name": "pwnable.kr/play.php",
+    "url": "http://pwnable.kr/play.php",
+    "category": "网络安全"
+  },
+  {
+    "name": "Reversing.Kr",
+    "url": "http://reversing.kr/",
+    "category": "网络安全"
+  },
+  {
+    "name": "index of /",
+    "url": "http://captf.com/practice-ctf/",
+    "category": "网络安全"
+  },
+  {
+    "name": "shell-storm | Home",
+    "url": "http://shell-storm.org/",
+    "category": "网络安全"
+  },
+  {
+    "name": "Linux Syscall Reference",
+    "url": "http://syscalls.kernelgrok.com/",
+    "category": "网络安全"
+  },
+  {
+    "name": "Exploit Exercises",
+    "url": "https://exploit-exercises.com/",
+    "category": "网络安全"
+  },
+  {
+    "name": "Anonymous Email Forwarding",
+    "url": "https://anonaddy.com/",
+    "category": "网络安全"
+  },
+  {
+    "name": "K8哥哥’s Blog",
+    "url": "https://k8gege.org/",
+    "category": "网络安全"
+  },
+  {
+    "name": "劫持DNS通过流量植入木马实验",
+    "url": "https://www.freebuf.com/articles/web/172921.html",
+    "category": "网络安全"
+  },
+  {
+    "name": "VirusTotal",
+    "url": "https://www.virustotal.com/gui/home/upload",
+    "category": "网络安全"
+  },
+  {
+    "name": "ctf blog",
+    "url": "https://www.mzy0.com/",
+    "category": "网络安全"
+  },
+  {
+    "name": "WHOAMI's Blog",
+    "url": "https://whoamianony.top/archives/",
+    "category": "网络安全"
+  },
+  {
+    "name": "ATT&CK红队实战——1 | FreeHK's",
+    "url": "https://freehk.top/",
+    "category": "网络安全"
+  },
+  {
+    "name": "Hacking Articles",
+    "url": "https://www.hackingarticles.in/",
+    "category": "网络安全"
+  },
+  {
+    "name": "管理员 · 语雀",
+    "url": "https://www.yuque.com/login.html",
+    "category": "网络安全"
+  },
+  {
+    "name": "鹰图平台",
+    "url": "https://hunter.qianxin.com/",
+    "category": "网络安全"
+  },
+  {
+    "name": "ctf.show",
+    "url": "https://ctf.show/challenges",
+    "category": "网络安全"
+  },
+  {
+    "name": "CTF在线工具",
+    "url": "http://www.hiencode.com/",
+    "category": "网络安全"
+  },
+  {
+    "name": "在线工具库",
+    "url": "https://forum.ywhack.com/shell.php",
+    "category": "网络安全"
+  },
+  {
+    "name": "Twitter Analytics for Tweets",
+    "url": "https://socialbearing.com/",
+    "category": "情报分析"
+  },
+  {
+    "name": "分析网址汇总",
+    "url": "https://www.iyouport.org/%e5%a6%82%e6%9e%9c%e4%bd%a0%e6%93%85%e9%95%bf%e6%90%9c%e7%b4%a2%ef%bc%8c%e4%bd%a0%e8%83%bd%e6%89%be%e5%88%b0%e4%b8%80%e5%88%87%ef%bc%9a%e6%b2%a1%e6%9c%89%e8%b0%b7%e6%ad%8c%e7%9a%84%e5%bc%ba%e5%a4%a7/",
+    "category": "情报分析"
+  },
+  {
+    "name": "TweetDeck",
+    "url": "https://tweetdeck.twitter.com/",
+    "category": "情报分析"
+  },
+  {
+    "name": "首页-丁爸网",
+    "url": "http://dingba.top/",
+    "category": "情报分析"
+  },
+  {
+    "name": "网盘搜索",
+    "url": "https://www.chaonengso.com/",
+    "category": "情报分析"
+  },
+  {
+    "name": "bellingcat",
+    "url": "https://www.bellingcat.com/",
+    "category": "情报分析"
+  },
+  {
+    "name": "NixIntel – OSINT",
+    "url": "https://nixintel.info/",
+    "category": "情报分析"
+  },
+  {
+    "name": "链必追",
+    "url": "https://trace.beosin.com/",
+    "category": "情报分析"
+  },
+  {
+    "name": "邮箱搜索",
+    "url": "https://hunter.io/search",
+    "category": "情报分析"
+  },
+  {
+    "name": "Instagram",
+    "url": "https://www.instagram.com/",
+    "category": "情报分析"
+  },
+  {
+    "name": "天眼查专业版",
+    "url": "https://pro.tianyancha.com/",
+    "category": "情报分析"
+  },
+  {
+    "name": "XSS Platform",
+    "url": "https://xss.pt/xss.php#",
+    "category": "实战工具"
+  },
+  {
+    "name": "NGINX在线配置",
+    "url": "https://www.digitalocean.com/community/tools/nginx",
+    "category": "实战工具"
+  },
+  {
+    "name": "CTF在线工具",
+    "url": "https://www.ssleye.com/",
+    "category": "实战工具"
+  },
+  {
+    "name": "crontab.guru",
+    "url": "https://crontab.guru/",
+    "category": "实战工具"
+  },
+  {
+    "name": "Password Recovery Online",
+    "url": "https://www.lostmypass.com/",
+    "category": "实战工具"
+  },
+  {
+    "name": "Weakpass",
+    "url": "https://weakpass.com/",
+    "category": "实战工具"
+  },
+  {
+    "name": "factordb.com",
+    "url": "http://factordb.com/",
+    "category": "实战工具"
+  },
+  {
+    "name": "摸瓜-免费APK反编译",
+    "url": "https://mogua.co/",
+    "category": "实战工具"
+  },
+  {
+    "name": "SMS-Activate",
+    "url": "https://sms-activate.org/#",
+    "category": "实战工具"
+  },
+  {
+    "name": "FO-OCTRA",
+    "url": "https://octra.fofa.vip/technologyStack",
+    "category": "实战工具"
+  },
+  {
+    "name": "iCraft Editor - 3D架构图绘制工具",
+    "url": "https://icraft.gantcloud.com/zh-CN",
+    "category": "实战工具"
+  },
+  {
+    "name": "INDIE TOOLS",
+    "url": "https://www.indietools.work/",
+    "category": "实战工具"
+  },
+  {
+    "name": "CTF_论剑场",
+    "url": "https://new.bugku.com/",
+    "category": "CTF专项"
+  },
+  {
+    "name": "bugku论坛",
+    "url": "https://www.bugku.com/",
+    "category": "CTF专项"
+  },
+  {
+    "name": "攻防世界",
+    "url": "https://adworld.xctf.org.cn/",
+    "category": "CTF专项"
+  },
+  {
+    "name": "0xdf hacks stuff | CTF solutions, malware analysis, home lab development",
+    "url": "https://0xdf.gitlab.io/",
+    "category": "CTF专项"
+  },
+  {
+    "name": "Challenges - Jarvis OJ",
+    "url": "https://www.jarvisoj.com/challenges",
+    "category": "CTF专项"
+  },
+  {
+    "name": "CTF在线攻防练习平台(靶场) ",
+    "url": "https://www.xuenixiang.com/ctfexercise-ctf.html",
+    "category": "CTF专项"
+  },
+  {
+    "name": "信息安全技术在线培训系统",
+    "url": "https://kx.91ctf.com/pack/kem/login",
+    "category": "CTF专项"
+  },
+  {
+    "name": "N1BOOK平台-Nu1L Team",
+    "url": "https://book.nu1l.com/tasks/#/",
+    "category": "CTF专项"
+  },
+  {
+    "name": "BUUCTF",
+    "url": "https://buuoj.cn/",
+    "category": "CTF专项"
+  },
+  {
+    "name": "明御® 攻防实验室平台",
+    "url": "https://kx.dasctf.com/compete/69/detail",
+    "category": "CTF专项"
+  },
+  {
+    "name": "ctf.show",
+    "url": "https://ctf.show/challenges#",
+    "category": "CTF专项"
+  },
+  {
+    "name": "在线工具 - Bugku CTF",
+    "url": "https://ctf.bugku.com/tools",
+    "category": "CTF专项"
+  },
+  {
+    "name": "Home Assistant",
+    "url": "https://www.home-assistant.io/",
+    "category": "geek"
+  },
+  {
+    "name": "Bitrefill",
+    "url": "https://www.bitrefill.com/buy/china/?hl=zh-Hans",
+    "category": "geek"
+  },
+  {
+    "name": "猿人学代码仓库",
+    "url": "https://git.virjar.com/users/sign_in",
+    "category": "geek"
+  },
+  {
+    "name": "爬虫练习平台",
+    "url": "https://www.python-spider.com/challenge/",
+    "category": "geek"
+  },
+  {
+    "name": "猿人学",
+    "url": "https://match.yuanrenxue.com/",
+    "category": "geek"
+  },
+  {
+    "name": "T00ls",
+    "url": "https://www.t00ls.com/",
+    "category": "geek"
+  },
+  {
+    "name": "爬虫工具",
+    "url": "http://tool.yuanrenxue.com/",
+    "category": "geek"
+  },
+  {
+    "name": "通义千问",
+    "url": "https://tongyi.aliyun.com/qianwen/?spm=5176.28326591.0.0.40f76ee1U1nSsl&sessionId=21e3081bb1714eb8a9b342b893bf3d65",
+    "category": "AI"
+  },
+  {
+    "name": "首页_AI导航",
+    "url": "https://ai.dreamthere.cn/",
+    "category": "AI"
+  },
+  {
+    "name": "chatgpt",
+    "url": "https://chat.openai.com/chat",
+    "category": "AI"
+  },
+  {
+    "name": "文心一言",
+    "url": "https://yiyan.baidu.com/",
+    "category": "AI"
+  },
+  {
+    "name": "Hugging Face",
+    "url": "https://huggingface.co/",
+    "category": "AI"
+  },
+  {
+    "name": "🧠ChatGPT 中文调教指南",
+    "url": "https://chatguide.plexpt.com/#%E5%8A%A0%E5%85%A5%E6%98%9F%E7%90%83",
+    "category": "AI"
+  },
+  {
+    "name": "GeoSpy.ai",
+    "url": "https://geospy.ai/",
+    "category": "AI"
+  },
+  {
+    "name": "Suno",
+    "url": "https://suno.com/create",
+    "category": "AI"
+  },
+  {
+    "name": "超能画布首页",
+    "url": "https://photo.baidu.com/photasy/home",
+    "category": "AI"
+  },
+  {
+    "name": "Stable Diffusion 零基础入门课学习资料汇总",
+    "url": "https://nenly.notion.site/017c3341c8b84a7ebb4c2cb16f36e28f?v=8d3885a8404b4f27a998d03b23a87f19",
+    "category": "AI"
+  },
+  {
+    "name": "Civitai: The Home of Open-Source Generative AI",
+    "url": "https://civitai.com/",
+    "category": "AI"
+  },
+  {
+    "name": "Runway Gen2",
+    "url": "https://app.runwayml.com/video-tools/teams/qq540788649/ai-tools/gen-2",
+    "category": "AI"
+  },
+  {
+    "name": "eSheep(内测中) - 一站式的AIGC社区",
+    "url": "https://www.esheep.com/",
+    "category": "AI"
+  },
+  {
+    "name": "Comfy Workflows",
+    "url": "https://comfyworkflows.com/",
+    "category": "AI"
+  },
+  {
+    "name": "智谱AI开放平台",
+    "url": "https://open.bigmodel.cn/",
+    "category": "AI"
+  },
+  {
+    "name": "Luma AI视频生成器免费在线",
+    "url": "https://lunaai.video/zh-CN/app",
+    "category": "AI"
+  },
+  {
+    "name": "Stable Diffusion 3免费在线访问",
+    "url": "https://stablediffusion3.net/zh-CN/app",
+    "category": "AI"
+  },
+  {
+    "name": " Dify",
+    "url": "https://cloud.dify.ai/apps",
+    "category": "AI"
+  },
+  {
+    "name": "302.AI",
+    "url": "https://dash.302.ai/dashboard/overview",
+    "category": "AI"
+  },
+  {
+    "name": "数字玩家",
+    "url": "https://www.opkfc.com/list",
+    "category": "AI"
+  },
+  {
+    "name": "新华妙笔-AI公文写作平台",
+    "url": "https://miaobi.xinhuaskl.com/recommend",
+    "category": "AI"
+  },
+  {
+    "name": "要养家的程序猿 - 博客园",
+    "url": "https://www.cnblogs.com/nick-algorithmer",
+    "category": "AI"
+  },
+  {
+    "name": "曙光计算服务",
+    "url": "https://www.scnet.cn/ui/console6/index.html#/space/dashboard",
+    "category": "AI"
+  },
+  {
+    "name": "即梦AI - 一站式AI创作平台",
+    "url": "https://jimeng.jianying.com/ai-tool/home",
+    "category": "AI"
+  },
+  {
+    "name": "白日梦 - 光魔科技",
+    "url": "https://aibrm.com/",
+    "category": "AI"
+  },
+  {
+    "name": "bolt.new 智能编码",
+    "url": "https://bolt.new/~/sb1-dohwwp",
+    "category": "AI"
+  },
+  {
+    "name": "TEN Agent-实时语音",
+    "url": "https://ten.rtcdeveloper.cn/",
+    "category": "AI"
+  },
+  {
+    "name": "SiliconCloud",
+    "url": "https://cloud.siliconflow.cn/models",
+    "category": "AI"
+  },
+  {
+    "name": "Prompt Library | DeepSeek API Docs",
+    "url": "https://api-docs.deepseek.com/zh-cn/prompt-library",
+    "category": "AI"
+  },
+  {
+    "name": "Qwen系列模型",
+    "url": "https://chat.qwenlm.ai/",
+    "category": "AI"
+  },
+  {
+    "name": "Grok",
+    "url": "https://grok.com/",
+    "category": "AI"
+  },
+  {
+    "name": "工作室 - Dify",
+    "url": "http://10.10.255.250/apps",
+    "category": "AI"
+  },
+  {
+    "name": "Smithery - MCP",
+    "url": "https://smithery.ai/",
+    "category": "AI"
+  },
+  {
+    "name": "Dify-nw",
+    "url": "http://172.16.1.13/signin",
+    "category": "AI"
+  },
+  {
+    "name": "百度",
+    "url": "https://www.baidu.com/",
+    "category": "书签栏"
+  },
+  {
+    "name": "Google 翻译",
+    "url": "https://translate.google.com/",
+    "category": "书签栏"
+  },
+  {
+    "name": "吾爱破解",
+    "url": "http://www.52pojie.cn/portal.php",
+    "category": "书签栏"
+  },
+  {
+    "name": "ProcessOn - 免费在线作图，实时协作",
+    "url": "https://processon.com/",
+    "category": "书签栏"
+  },
+  {
+    "name": "Google APIs Explorer",
+    "url": "https://developers.google.com/apis-explorer/?hl=zh_CN#p/customsearch/v1/search.cse.list",
+    "category": "书签栏"
+  },
+  {
+    "name": "《死磕 Elasticsearch 方法论》：普通程序员高效精进的 10 大狠招！（完整版） - Elastic 中文社区",
+    "url": "https://elasticsearch.cn/article/561",
+    "category": "书签栏"
+  },
+  {
+    "name": "Elasticsearch Cheat Sheet for developers",
+    "url": "http://elasticsearch-cheatsheet.jolicode.com/",
+    "category": "书签栏"
+  }
+]
